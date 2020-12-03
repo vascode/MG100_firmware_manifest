@@ -7,7 +7,7 @@ manifest:
     - name: ncs
       url-base: https://github.com/nrfconnect
     - name: vascode
-      url-base: https://github.com/vascode/MG100_firmware  
+      url-base: https://github.com/vascode
 
   # Please add items below based on alphabetical order.
   # These dependencies may need updating if new features are added to the firmware.
