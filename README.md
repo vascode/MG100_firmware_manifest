@@ -24,13 +24,7 @@ Once `west` is installed, clone this repository using `west init` and `west upda
 
 ```
 # Checkout the latest manifest on master
-west init -m https://github.com/LairdCP/MG100_firmware_manifest.git
-
-# OR checkout v3.1.0 tag
-west init -m https://github.com/LairdCP/MG100_firmware_manifest.git --mr v3.1.0
-
-# OR checkout GA3 branch
-west init -m https://github.com/LairdCP/MG100_firmware_manifest.git --mr GA3
+west init -m https://github.com/vascode/MG100_firmware_manifest.git
 
 # Now, pull all the source described in the manifest
 west update
