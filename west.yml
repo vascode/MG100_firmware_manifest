@@ -15,7 +15,7 @@ manifest:
       revision: 7b6858a5855299d173c5ab2b46e611bf9961cbef
       remote: JsmnRepo
     - name: mg100_firmware
-      revision: dd6405617c2779fe9539834c67d529bfac36b715
+      revision: 802be6ac334c6813aa85b3ee469ba6fefedc982c
       remote: vascode
     - name: sdk-nrf
       path: nrf
