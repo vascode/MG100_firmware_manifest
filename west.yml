@@ -6,9 +6,8 @@ manifest:
       url-base: https://github.com/LairdCP
     - name: ncs
       url-base: https://github.com/nrfconnect
-    - name: mg100_firmware
+    - name: vascode
       url-base: https://github.com/vascode/MG100_firmware  
-      revision: 1525e4fbf6a4e9a5fe89d84cc84315781ad24417
 
   # Please add items below based on alphabetical order.
   # These dependencies may need updating if new features are added to the firmware.
