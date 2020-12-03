@@ -16,7 +16,7 @@ manifest:
       remote: JsmnRepo
     - name: mg100_firmware
       revision: dd6405617c2779fe9539834c67d529bfac36b715
-      remote: LairdCP
+      remote: vascode
     - name: sdk-nrf
       path: nrf
       revision: 4c0d3be2ed4ade4dc3e614e95e6f8e4330d663b4
