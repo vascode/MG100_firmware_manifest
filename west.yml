@@ -7,8 +7,8 @@ manifest:
     - name: ncs
       url-base: https://github.com/nrfconnect
     - name: mg100_firmware
-      url: https://github.com/vascode/MG100_firmware/tree/BK_demo 
-      revision: 802be6ac334c6813aa85b3ee469ba6fefedc982c
+      url-base: https://github.com/vascode/MG100_firmware 
+      #revision: 802be6ac334c6813aa85b3ee469ba6fefedc982c
 
   # Please add items below based on alphabetical order.
   # These dependencies may need updating if new features are added to the firmware.
